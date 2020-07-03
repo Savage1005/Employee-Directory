@@ -1,12 +1,21 @@
 import React from 'react'
 import moment from 'moment'
+
+
+
+
+
+
+
+
 function DataTable(props){
+  
     return (
    <table className ="table responsive">
   <thead>
     <tr>
       <th>Image</th>
-      <th>Name</th>
+      <th type="button" onClick={props.sorted}>Name</th>
       <th>Phone</th>
       <th>Email</th>
       <th>DOB</th>
