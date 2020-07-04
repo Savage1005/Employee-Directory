@@ -54,10 +54,12 @@ handleChange=event=>{
 render(){
     return (
     <>
+    <div className= "container text-center bg-info text-light">
     {console.log (this.state.employeeList)}
     <Header />
     <SearchNames handleChange={this.handleChange} searchName={this.state.searchName}/>
     <DataTable  employeeList={this.state.employeeList} sorted ={this.sorted} />
+    </div>
     </>
   );
  }

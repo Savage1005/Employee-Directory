@@ -1,68 +1,57 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Employee Directory
+![Badge](https://img.shields.io/badge/LICENSE-MIT-<GREEN>)
+## Description
+Given a table of random users, when the user loads the page, a table of employees should render.
 
-## Available Scripts
+## Deployed site
+https://savage1005.github.io/employee-directory/
 
-In the project directory, you can run:
+## Github Directory
+https://github.com/Savage1005/employee-directory/tree/code
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+*[Installation](#installation)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+*[Usage](#usage)
 
-### `npm test`
+*[License](#license)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+*[Contributing](#contributing)
 
-### `npm run build`
+*[Test](#tests)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+*[Questions](#questions)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To install necessary dependencies, run the following command:
 
-### `npm run eject`
+npm i
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Screenshot
+![image](https://i.gyazo.com/6f85804b127e23479772023b0e94cfd8.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Usage
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+This App uses react
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## License
 
-## Learn More
+MIT
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+email me
 
-### Code Splitting
+## Tests
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+To run a test please type the following command:
 
-### Analyzing the Bundle Size
+none
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Questions
 
-### Making a Progressive Web App
+If you have any questions,contact me at tsavage@gmail.com or visit my github: github.com/Savage1005
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
